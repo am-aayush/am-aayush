@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
-<h3 align="center">Tech enthusiast building full-stack projects & learning data science</h3>
+<h3 align="center">Full-stack developer and CS undergrad who likes turning everyday problems into
+working software — from UI to backend to database, not just one layer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-aayush&label=Profile%20views&color=0e75b6&style=flat" alt="am-aayush" /> </p>
 
-- 🌱 I’m currently learning **WebDev, React , Vite, Next.js**
-
-- 💬 Ask me about **WedDev, React , C++**
-
-- 📫 How to reach me **aayush.avm@gmail.com**
+🔭 Currently building: a queue-management platform for barbershops (toward a startup)<br />
+🛠️ Comfortable across the stack: React/React Native → Node/Express → MongoDB/PostgreSQL<br />
+🌱 Currently sharpening: DSA and system design<br />
+💬 Ask me about: full-stack architecture, React Native, or Electron desktop apps<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,4 +45,9 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-aayush&show_icons=true&locale=en&layout=compact" alt="am-aayush" /></p>
+**Some things I've built:**
+- 💸 [Splitzy](https://github.com/am-aayush/Splitzy) — Splitwise-style expense splitter, React Native + Expo
+- 🔐 [SureKeep V2](https://github.com/am-aayush/SureKeep_V2) — password manager, JWT auth, glassmorphism UI
+- 🔊 [Audio-Bridge](https://github.com/am-aayush/Audio-Bridge) — Electron/WASAPI app that routes per-app audio to multiple devices
+- 🧹 [Code-Shredder](https://github.com/am-aayush/Code-Shredder) — utility to clean up dev-storage bloat
+
