@@ -4,7 +4,7 @@ working software — from UI to backend to database, not just one layer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-aayush&label=Profile%20views&color=0e75b6&style=flat" alt="am-aayush" /> </p>
 
-🔭 Currently building: a queue-management platform for barbershops (toward a startup)<br />
+🔭 Currently building: a queue-management platform for feedback (toward a startup)<br />
 🛠️ Comfortable across the stack: React/React Native → Node/Express → MongoDB/PostgreSQL<br />
 🌱 Currently sharpening: DSA and system design<br />
 💬 Ask me about: full-stack architecture, React Native, or Electron desktop apps<br />
