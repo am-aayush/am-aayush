@@ -2,8 +2,6 @@
 <h3 align="center">Full-stack developer and CS undergrad who likes turning everyday problems into
 working software — from UI to backend to database, not just one layer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=am-aayush&label=Profile%20views&color=0e75b6&style=flat" alt="am-aayush" /> </p>
-
 🔭 Currently building: a queue-management platform for feedback (toward a startup)<br />
 🛠️ Comfortable across the stack: React/React Native → Node/Express → MongoDB/PostgreSQL<br />
 🌱 Currently sharpening: DSA and system design<br />
